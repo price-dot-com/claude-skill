@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "price": {
+      "type": "http",
+      "url": "https://ai.price.com/mcp"
+    }
+  }
+}
